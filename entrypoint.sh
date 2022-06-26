@@ -1,7 +1,7 @@
 #!/bin/sh
 
-UUID=413c3cfd-bff2-466b-9f83-ac51a048d60c
-WSPATH=/fb11ec
+UUID=413c3cfd-bff2-466b-9f38-ac15a084d60c
+WSPATH=/fb11
 PORT=80
 
 
